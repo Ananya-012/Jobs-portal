@@ -1,0 +1,14 @@
+[
+  {
+      "company": "Google",
+        "title": "Software Engineer",
+        "location": "Mountain View, CA",
+        "dates": "feb12,2022"
+    },
+    {
+        "company": "Facebook",
+          "title": "SK",
+          "location": "Mountain View, CA",
+          "dates": "feb12,2022"
+      }
+]
